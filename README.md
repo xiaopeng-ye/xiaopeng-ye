@@ -53,6 +53,18 @@
 
 ---
 
+### 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/603dd41b-50c4-487f-ba32-1b906f9f35ce/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="150" height="150" />
+  </a>
+  <a href="https://www.credly.com/badges/c1c7ab0c-73f8-4425-85a8-e86c9d3b205b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="150" height="150" />
+  </a>
+</p>
+
+---
 
 ### 📫 Socials
 
